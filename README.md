@@ -30,9 +30,7 @@ I'm a passionate **Data Analyst** with over **[4 years]** of experience in trans
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghu-vamsi-krishna-yandapalli-837309220/)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
-
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghuvamsikrishnayandapalli@gmail.com)  
 ---
 
 > *"Data is the new oil – and I love refining it into actionable insights."*
