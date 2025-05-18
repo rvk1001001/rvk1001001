@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm R.V.K
 
-<!--
-**rvk1001001/rvk1001001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** with a passion for turning data into insights.  
+Skilled in:
 
-Here are some ideas to get you started:
+- Power BI 📊  
+- SQL 🧩  
+- Excel 📈  
+- DAX 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Always learning and exploring data-driven solutions.
+
+📫 Email: your-email@example.com  
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
